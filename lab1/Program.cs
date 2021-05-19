@@ -18,9 +18,9 @@ namespace lab1
             Console.WriteLine("ID = {0} , Name = {1} va Age = {2} ", ID , Name , Age);
         }
 
-
+asdasdasdasdasdasdasdasdasd
     }
-
+alsmadmsfoamdfoamsdffomasdofmaosdmfoamsdofmasdfasdf
     class Program
     {
         static void Main(string[] args)
