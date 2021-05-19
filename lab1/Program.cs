@@ -32,7 +32,7 @@ namespace lab1
             h2.invs();
             h3.invs();
             Console.WriteLine("hello ");
-
+             Console.WriteLine("Pull request ");
         }
     }
 }
