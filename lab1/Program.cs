@@ -31,6 +31,8 @@ namespace lab1
             h1.invs();
             h2.invs();
             h3.invs();
+            Console.WriteLine("hello ");
+
         }
     }
 }
